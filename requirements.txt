@@ -1,2 +1,2 @@
-blockcerts-pyld>=0.0.1
+blockcerts-pyld>=0.0.2
 requests>=2.18.4

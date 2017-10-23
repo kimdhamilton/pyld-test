@@ -14,7 +14,7 @@ with open(os.path.join(here, 'README.md')) as fp:
 
 setup(
     name='kim-test',
-    version='0.0.1',,
+    version='0.0.1',
     tests_require=['tox'],
     url='https://github.com/kimdhamilton/pyld-test',
     license='MIT',
